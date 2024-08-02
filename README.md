@@ -14,5 +14,5 @@
    <img  align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="office">
 </div>
 <br>
-Atualmente estudando sobre Ren'Py
+Atualmente estudando sobre Banco de Dados
 <br>
